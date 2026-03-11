@@ -1,0 +1,15 @@
+{
+  "last_update": "2026-03-11",
+  "signatures": [
+    {
+      "name": "Trojan.Generic",
+      "hash": "5d41402abc4b2a76b9719d911017c592",
+      "severity": "high"
+    },
+    {
+      "name": "Adware.Win32.Pop",
+      "hash": "7b24afc8bc80e548d6606162741971d0",
+      "severity": "medium"
+    }
+  ]
+}
