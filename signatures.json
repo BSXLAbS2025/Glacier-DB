@@ -1,15 +1,14 @@
-{
-  "last_update": "2026-03-11",
-  "signatures": [
-    {
-      "name": "Trojan.Generic",
-      "hash": "5d41402abc4b2a76b9719d911017c592",
-      "severity": "high"
-    },
-    {
-      "name": "Adware.Win32.Pop",
-      "hash": "7b24afc8bc80e548d6606162741971d0",
-      "severity": "medium"
-    }
-  ]
-}
+[
+  {
+    "package_name": "com.malware.example",
+    "malware_type": "TrojanBanker",
+    "risk_level": "high",
+    "signature_hash": "md5_or_sha256_hash_of_apk"
+  },
+  {
+    "package_name": "com.adware.badapp", 
+    "malware_type": "Adware",
+    "risk_level": "medium",
+    "signature_hash": ""
+  }
+]
